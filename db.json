@@ -190,7 +190,7 @@
             "ratings": "3"
         },
         {
-            "id": "22",
+            "id": "4",
             "name": "Dummy Product 22",
             "price": "1900.0",
             "priceAfterDiscount": "800.0",
@@ -199,7 +199,7 @@
             "ratings": "5"
         },
         {
-            "id": "4",
+            "id": "5",
             "name": "Dummy Product 23",
             "price": "2000.0",
             "priceAfterDiscount": "1100.0",
@@ -217,7 +217,7 @@
             "ratings": "4"
         },
         {
-            "id": "6",
+            "id": "7",
             "name": "Dummy Product 25",
             "price": "2500.0",
             "priceAfterDiscount": "2000.0",
@@ -226,7 +226,7 @@
             "ratings": "4"
         },
         {
-            "id": "7",
+            "id": "8",
             "name": "Dummy Product 26",
             "price": "2000.0",
             "priceAfterDiscount": "1000.0",
@@ -235,7 +235,7 @@
             "ratings": "4"
         },
         {
-            "id": "8",
+            "id": "9",
             "name": "Dummy Product 27",
             "price": "1500.0",
             "priceAfterDiscount": "500.0",

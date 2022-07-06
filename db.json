@@ -163,7 +163,7 @@
             "ratings": "4"
         },
         {
-            "id": "19",
+            "id": "1",
             "name": "Dummy Product 19",
             "price": "2500.0",
             "priceAfterDiscount": "2000.0",
@@ -172,7 +172,7 @@
             "ratings": "4"
         },
         {
-            "id": "20",
+            "id": "2",
             "name": "Dummy Product 20",
             "price": "2000.0",
             "priceAfterDiscount": "1000.0",
@@ -181,7 +181,7 @@
             "ratings": "4"
         },
         {
-            "id": "21",
+            "id": "3",
             "name": "Dummy Product 21",
             "price": "1500.0",
             "priceAfterDiscount": "500.0",
@@ -199,7 +199,7 @@
             "ratings": "5"
         },
         {
-            "id": "23",
+            "id": "4",
             "name": "Dummy Product 23",
             "price": "2000.0",
             "priceAfterDiscount": "1100.0",
@@ -208,7 +208,7 @@
             "ratings": "5"
         },
         {
-            "id": "24",
+            "id": "5",
             "name": "Dummy Product 24",
             "price": "2740.0",
             "priceAfterDiscount": "1099.0",
@@ -217,7 +217,7 @@
             "ratings": "4"
         },
         {
-            "id": "25",
+            "id": "6",
             "name": "Dummy Product 25",
             "price": "2500.0",
             "priceAfterDiscount": "2000.0",
@@ -226,7 +226,7 @@
             "ratings": "4"
         },
         {
-            "id": "26",
+            "id": "7",
             "name": "Dummy Product 26",
             "price": "2000.0",
             "priceAfterDiscount": "1000.0",
@@ -235,7 +235,7 @@
             "ratings": "4"
         },
         {
-            "id": "27",
+            "id": "8",
             "name": "Dummy Product 27",
             "price": "1500.0",
             "priceAfterDiscount": "500.0",
